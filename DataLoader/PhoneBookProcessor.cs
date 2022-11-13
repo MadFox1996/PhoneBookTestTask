@@ -24,6 +24,8 @@ namespace DataLoader
             int loadAmount = _config.GetValue<int>("LoadAmount");
             string urlPattern = $"?results={loadAmount}";
 
+            _log.LogInformation("Please wait until the data transport completed...");
+
             using (HttpResponseMessage response = await ApiHelper.ApiClient.GetAsync(urlPattern))
             {
                 if (response.IsSuccessStatusCode)

@@ -10,7 +10,7 @@ namespace DataLoader.Mapper
             return source.Select(model => new PhoneBookEntry
             {
                 Id = Guid.Parse(model.login.uuid),
-                Name = $"{model.name.title} {model.name.first} {model.name.last} ",
+                Name = $"{model.name.title} {model.name.first} {model.name.last}",
                 Email = model.email,
                 Birthday = model.dob.date,
                 Address = $"{model.location.street.number} {model.location.street.name}",
