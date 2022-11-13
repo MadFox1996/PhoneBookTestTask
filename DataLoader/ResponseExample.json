@@ -1,0 +1,122 @@
+﻿{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Amoli",
+        "last": "Bhat"
+      },
+      "location": {
+        "street": {
+          "number": 8807,
+          "name": "Ashoka Rd"
+        },
+        "city": "Chandrapur",
+        "state": "Karnataka",
+        "country": "India",
+        "postcode": 16851,
+        "coordinates": {
+          "latitude": "8.6615",
+          "longitude": "161.4171"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alaska"
+        }
+      },
+      "email": "amoli.bhat@example.com",
+      "login": {
+        "uuid": "02e1e037-18f8-47ea-9230-0571525952b9",
+        "username": "angrybear417",
+        "password": "catalina",
+        "salt": "F7GD6Pel",
+        "md5": "aeee8ba995d9f248106d9006a46b1779",
+        "sha1": "f0436b3850d1c88122243045c3148a579a4fc1bb",
+        "sha256": "9575a8e8363dda34937cbfdf4e880ecac69798894e5fab7cfa266e176f674b09"
+      },
+      "dob": {
+        "date": "1970-03-02T23:20:56.504Z",
+        "age": 52
+      },
+      "registered": {
+        "date": "2004-01-11T01:06:14.344Z",
+        "age": 18
+      },
+      "phone": "7363175267",
+      "cell": "9846684223",
+      "id": {
+        "name": "UIDAI",
+        "value": "268949082764"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/31.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
+      },
+      "nat": "IN"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Monsieur",
+        "first": "Dylan",
+        "last": "Charles"
+      },
+      "location": {
+        "street": {
+          "number": 4247,
+          "name": "Montée Saint-Barthélémy"
+        },
+        "city": "Cugy (Vd)",
+        "state": "Nidwalden",
+        "country": "Switzerland",
+        "postcode": 4869,
+        "coordinates": {
+          "latitude": "-47.6790",
+          "longitude": "44.6029"
+        },
+        "timezone": {
+          "offset": "+3:00",
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+      },
+      "email": "dylan.charles@example.com",
+      "login": {
+        "uuid": "bed7aad7-3354-4adf-bf0e-3ba720328633",
+        "username": "lazydog639",
+        "password": "abnormal",
+        "salt": "21Yd5CTu",
+        "md5": "0a4d95f2bdf0d0709d3842c71c4281bf",
+        "sha1": "dc8a01f34982b4a33ca9278b5077aa3ba96e5093",
+        "sha256": "78707f112fac1b0c08851cc7a2954d2e905229daed4bcddf4161c03002b93b0a"
+      },
+      "dob": {
+        "date": "1980-04-13T23:28:40.788Z",
+        "age": 42
+      },
+      "registered": {
+        "date": "2018-10-02T02:09:04.861Z",
+        "age": 4
+      },
+      "phone": "077 412 30 13",
+      "cell": "075 270 15 69",
+      "id": {
+        "name": "AVS",
+        "value": "756.4509.4561.05"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/50.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+      },
+      "nat": "CH"
+    }
+  ],
+  "info": {
+    "seed": "6cddecc7addc8fdf",
+    "results": 2,
+    "page": 1,
+    "version": "1.4"
+  }
+}
